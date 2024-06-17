@@ -1,7 +1,8 @@
 # Option-Price-Calculator
 Installation List
 
-In CMD:	pip install scipy streamlit
+In CMD:	
+	pip install scipy streamlit
 
 --------------------------------------------------------
 
