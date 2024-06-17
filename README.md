@@ -15,4 +15,4 @@ First navigate to the project folder in CMD, then run:
 	
 	streamlit run binomial_options_pricing_model.py
 
-
+Or use the .bat files to run the applications.
