@@ -1,5 +1,5 @@
 # Option-Price-Calculator
-Installation List
+Installation 
 
 In CMD:	
 	
@@ -7,7 +7,7 @@ In CMD:
 
 --------------------------------------------------------
 
-CMD Commands to run start the applications:
+CMD Commands to run start the applications
 
 First navigate to the project folder in CMD, then run:
 
