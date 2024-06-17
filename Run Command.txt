@@ -1,0 +1,5 @@
+Run command
+
+	streamlit run black-scholes_model.py
+	
+	streamlit run binomial_options_pricing_model.py
