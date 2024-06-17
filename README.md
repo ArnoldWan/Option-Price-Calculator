@@ -2,7 +2,8 @@
 Installation List
 
 In CMD:	
-	pip install scipy streamlit
+	
+ 	pip install scipy streamlit
 
 --------------------------------------------------------
 
